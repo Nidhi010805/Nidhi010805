@@ -28,7 +28,7 @@ Currently, I'm exploring **Machine Learning, Agentic AI, RAG pipelines, Vector D
 - 🌱 Continuously learn and experiment with new technologies
 - 🤝 Open to software engineering internships, collaborations, and open-source opportunities
 
-- 
+
 
 # 🌐 Connect With Me
 
