@@ -110,12 +110,7 @@ A full-stack sustainability platform focused on promoting eco-friendly packaging
 
 
 
-### Features
 
-- Modern responsive UI
-- Smooth animations
-- Project showcase
-- Clean developer-focused design
 
 # 💻 Tech Stack
 
